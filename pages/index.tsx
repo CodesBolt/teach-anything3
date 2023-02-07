@@ -37,7 +37,7 @@ const Home: NextPage = () => {
   }
   let difficultyObj = {
     'Easy': "Easy",
-    'Professional': "Professional",
+    'Profession': "Profession",
   }
   let text = desc||defultDesc
   
